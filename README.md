@@ -1,4 +1,4 @@
-# coursGit2
+# coursGit
 Cours Git de Skullyfox
 
 apres rename et suppression du d (c'est vraiment que du test là !)
