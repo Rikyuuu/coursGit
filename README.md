@@ -1,4 +1,6 @@
 # coursGit2
 Cours Git de Skullyfox
-dapres rename
+
+apres rename et suppression du d (c'est vraiment que du test là !)
+
 Tout est ok !
